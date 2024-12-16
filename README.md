@@ -1,0 +1,2 @@
+# truenas_ddns_cloudflare
+在truenas中动态解析Cloudflare的脚本
